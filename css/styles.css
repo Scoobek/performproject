@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+thead {
+    color: rgba(0,0,0,0.7);
+}
+
+tr {
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+td, th {
+    padding: 15px 10px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+
+.table-content {
+    overflow-x:hidden;
+}
+
+.user {
+    padding: 10px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.col-name {
+    width: 20%;
+}
+
+.col-description {
+    width: 43%;
+}
+
+.col-updated {
+    width: 12%;
+}
+
+.col-url {
+    width: 25%;
+}

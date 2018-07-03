@@ -1,0 +1,11 @@
+{
+  "name": "zadanie",
+  "version": "1.0.0",
+  "description": "project for perform company",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wojciech Skubisz",
+  "license": "ISC"
+}
